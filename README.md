@@ -15,8 +15,8 @@ Sistem Informasi Organisasi adalah sistem informasi berbasis web menggunakan fra
 - Jurnal tersebut sudah di publish, sebagai tugas harian Andi Alfian pada  mata kuliah Etika Profesi Informatika. Untuk [Link Jurnal](https://ejournal.papanda.org/index.php/jistec/article/download/83/67)
 
 ## How to Install :
-- Buat folder dengan nama 'ORGA' 
-- Buat database dengan nama 'aorga' 
+- Jika di local, Buat folder dengan nama 'ORGA' dan simpan project di folder tersebut.
+- Jika di local, Buat database dengan nama 'aorga' 
 - Import file aorga.sql dan record.sql yang terdapat folder db. 
 
 ## Supported Browsers:
